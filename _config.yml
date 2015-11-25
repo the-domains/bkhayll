@@ -1,0 +1,28 @@
+name: bkhayll
+favicon: null
+layout_spectrum: 0.8175630846526474
+typography_spectrum: 0.9403731517959386
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6949646270368248
+  lightness: 0.7489742515608668
+  saturation: 0.4837936647236347
+  rhythmicContrast: 0.09324760711751878
+purpose: []
