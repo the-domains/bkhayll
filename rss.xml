@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[iOS Games by Balázs Korossy-Khayll]]></title>
+        <description><![CDATA[iOS Games by Balázs Korossy-Khayll]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 Nov 2015 19:27:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hi, I'm happy to see you. This is the page of me, Balázs Korossy-Khayll, a hobby time independent iOS game developer. I distribute my apps through my company Honlab Kft. Below you can find a list of what I currently offer on the App Store.</p>]]></description>
+            <link>undefinedcf9099d1-f90a-43c9-938e-e88e55c5a495/index.html</link>
+            <guid isPermaLink="false">cf9099d1-f90a-43c9-938e-e88e55c5a495</guid>
+            <pubDate>Wed, 25 Nov 2015 19:26:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
