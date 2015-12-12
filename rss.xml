@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[iOS Games by Balázs Korossy-Khayll]]></title>
         <description><![CDATA[iOS Games by Balázs Korossy-Khayll]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bkhayll/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 19:27:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Dec 2015 09:27:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bkhayll/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Four: The Space Fight]]></title>
+            <description><![CDATA[<article><h1>Four: The Space Fight</h1><p>A face-to-face multi player space shooter game for iPad</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b77a597568bdd06e924a21c4adaee9292d67bc69.png"></article>]]></description>
+            <link>https://thegrid.ai/bkhayll/four-the-space-fight/index.html</link>
+            <guid isPermaLink="false">1b4f3da3-72ec-43de-b995-f21b8aa152fc</guid>
+            <pubDate>Sat, 12 Dec 2015 09:27:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hi, I'm happy to see you. This is the page of me, Balázs Korossy-Khayll, a hobby time independent iOS game developer. I distribute my apps through my company Honlab Kft. Below you can find a list of what I currently offer on the App Store.</p>]]></description>
-            <link>undefinedcf9099d1-f90a-43c9-938e-e88e55c5a495/index.html</link>
+            <link>https://thegrid.ai/bkhayll/cf9099d1-f90a-43c9-938e-e88e55c5a495/index.html</link>
             <guid isPermaLink="false">cf9099d1-f90a-43c9-938e-e88e55c5a495</guid>
             <pubDate>Wed, 25 Nov 2015 19:26:55 GMT</pubDate>
         </item>
