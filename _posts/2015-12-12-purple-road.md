@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T10:16:23.740Z'
-dateModified: '2015-12-12T10:16:03.701Z'
+datePublished: '2015-12-12T10:27:09.029Z'
+dateModified: '2015-12-12T10:27:06.181Z'
 title: Purple Road
 author: []
+sourcePath: _posts/2015-12-12-purple-road.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-12-purple-road.md
-published: true
 url: purple-road/index.html
 _type: Article
 
@@ -25,6 +25,7 @@ _type: Article
 # Purple Road
 
 My new game will be called Purple Road. That's the plan anyway. Okay, this time I'm going to make the controls as intuitive and easy as I can. That wasn't the case with my games so far, and I do think this is one of the reasons people don't understand them. It's hard to tell the story in your head in the form of a game, when most people are expecting something instantly loveable. I guess I'm on the right track, people don't ask me, "What should I do?" when I show them the latest version. With simplicity however comes the challenge. How do you make something, that does not get boring after 10 minutes? Now I haven't figured out that yet... I'll be trying though.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc602eec-731b-4f1a-a788-2d3b085e9488.jpg)
 
 I recently got the advice to offer rewards to the players after finishing a "level". The idea is elaborated in this video: [HOOKED: HOW TO BUILD HABIT-FORMING PRODUCTS BY NIR EYAL ANIMATED][0] worth watching. Yeah, so I'll do that. I have some ideas, but I need to implement them to see if they works. In my first game (with the terrible name of) [Four: The Space Fight][1] I did have some form of interlude between two levels, but the purpose was't to reward players, at least not intentionally.
 
