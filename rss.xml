@@ -4,8 +4,15 @@
         <description><![CDATA[iOS Games by Balázs Korossy-Khayll]]></description>
         <link>https://thegrid.ai/bkhayll/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 09:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2015 10:16:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bkhayll/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Purple Road]]></title>
+            <description><![CDATA[<article><h1>Purple Road</h1><p>My new game will be called Purple Road. That's the plan anyway. Okay, this time I'm going to make the controls as intuitive and easy as I can. That wasn't the case with my games so far, and I do think this is one of the reasons people don't understand them. It's hard to tell the story in your head in the form of a game, when most people are expecting something instantly loveable. I guess I'm on the right track, people don't ask me, "What should I do?" when I show them the latest version. With simplicity however comes the challenge. How do you make something, that does not get boring after 10 minutes? Now I haven't figured out that yet... I'll be trying though.</p></article>]]></description>
+            <link>https://thegrid.ai/bkhayll/purple-road/index.html</link>
+            <guid isPermaLink="false">cbc713e5-bfde-4ff2-9982-df1942c6bcd2</guid>
+            <pubDate>Sat, 12 Dec 2015 10:16:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I make games, iOS games. I do that because I like to create things, after all creating is rooted deep in the human race. I always liked computer science, because it enables you to materialise your dreams. You're the source of the idea, you're the designer, you're the one doing the dirty work, and sometimes you get the chance to work in a team, that thinks the same way. Making computer games is perhaps the most rewarding thing in computer science. Games often have interesting logic, and they also have a human interface, thus they have it all. You need to figure out how to achieve your goals in the computer world, but also to amuse the humans. If there's such thing as a full-stack developer, then an independent one-man show game developer is a little bit more that that. </p>]]></description>
