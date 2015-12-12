@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-12T10:29:24.345Z'
-dateModified: '2015-12-12T10:29:15.491Z'
+datePublished: '2015-12-12T10:35:38.910Z'
+dateModified: '2015-12-12T10:35:34.710Z'
 title: Purple Road
 author: []
 sourcePath: _posts/2015-12-12-purple-road.md
